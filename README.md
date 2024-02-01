@@ -7,10 +7,10 @@
 - Let's connect, I am open to collaboration, networking and new opportunities. Feel free to reach out via LinkedIn www.linkedin.com/in/thomas-bergmanis-540262171
 
 # INTRODUCTION
-I'm Tom, a passionate tech enthusiast on a journey to become a skilled Python developer and delve into the realms of software engineering and data analytics. I am a self-taught developer, gaining most of my knowledge through online courses and bootcamps.
+I'm Tom, a passionate tech enthusiast on a journey to become a skilled Python developer and delve into the realms of software engineering and data analytics. I am a self-taught developer, gaining most of my knowledge through online courses and bootcamps. 
 
 ## ABOUT ME
-I love to solve problems and have a keen interest in data and how it is used. My journey began when I was first introduced to Python during my final year at university. This sparked an interest to pursue learning Python in my own time, where I enrolled myself in a variety of online courses. This didn't stop here; I found out about the HyperionDev CoGrammar Skills boot camp, teaching Python and software engineering skills such as data structures and algorithms, object-oriented programming, and system design.
+I love to learn, solve problems and have a keen interest in data and how it is used. My journey began when I was first introduced to basic programming during my final year at university. This sparked an interest to pursue learning Python in my own time, where I enrolled myself in a variety of online courses. This didn't stop here; I found out about the HyperionDev CoGrammar Skills boot camp, where I have been learning Python and key concepts in software development such as **data structures and algorithms, object-oriented programming, and system design**.
 
 ## SKILLS:
 - Languages: Python, JavaScript, HTML, and CSS
