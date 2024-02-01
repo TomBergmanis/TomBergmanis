@@ -28,11 +28,14 @@ Check out some of my recent projects
 One of the main reasons I aspire to work with technology is that I love to continuously learn and add new skills to my "toolbelt" as it makes me feel good to challenge myself and succeed in honing those new skills. 
 One of the key features of working in technology and particularly within software development is continuous development. Whether that is learning new languages, frameworks, etc., or soft skills such as teamwork, communication, leadership... It is important to know that there is always more to learn or improve on.
 
+- HyperionDev / CoGrammar Skills Bootcamp - Software Engineering Python
+- The Odin project JavaScript Foundations
+- 
 
 
+LinkedIn: www.linkedin.com/in/thomas-bergmanis-540262171
+Email: tom.bergmanis@gmail.com
 
-### LinkedIn: www.linkedin.com/in/thomas-bergmanis-540262171
-### Email: tom.bergmanis@gmail.com
 
 👋 Thanks for visiting 👋
 
