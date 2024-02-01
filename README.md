@@ -31,8 +31,8 @@ One of the key features of working in technology and particularly within softwar
 
 
 
-# LinkedIn: www.linkedin.com/in/thomas-bergmanis-540262171
-# Email: tom.bergmanis@gmail.com
+### LinkedIn: www.linkedin.com/in/thomas-bergmanis-540262171
+### Email: tom.bergmanis@gmail.com
 
 👋 Thanks for visiting 👋
 
