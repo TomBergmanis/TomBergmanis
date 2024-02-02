@@ -2,9 +2,9 @@
 
 ### QUICK OVERVIEW: 
 - 🔭 I’m currently working on getting my first job in tech.
-- 🌱 I’m currently learning Python, Software Engineering, and Data Science.
+- 🌱 Learning Python, Software Engineering, and Data Science.
 - 👯 I’m looking to collaborate on my first project whether that be Python, JavaScript, HTML, CSS.
-- Let's connect, I am open to collaboration, networking and new opportunities. Feel free to reach out via LinkedIn www.linkedin.com/in/thomas-bergmanis-540262171
+- Let's connect! I am open to collaboration, networking and new opportunities. Feel free to reach out via LinkedIn www.linkedin.com/in/thomas-bergmanis-540262171
 
 # INTRODUCTION
 I'm Tom, a passionate tech enthusiast on a journey to become a skilled Python developer and delve into the realms of software engineering and data analytics. I am a self-taught developer, gaining most of my knowledge through online courses and bootcamps. 
@@ -14,13 +14,13 @@ I love to learn, solve problems and have a keen interest in data and how it is u
 
 ## SKILLS:
 - Languages: Python, JavaScript, HTML, and CSS
-- Frameworks/ Tools: [Include specific frameworks/tools]
+- Frameworks/ Tools: node.js 
 
 ## Recent Projects:
 
 Check out some of my recent projects
 
-1. Project 1
+1. [Project 1](https://github.com/TomBergmanis/task_manager_python)
 2. Project 2
 3. Project 3
 
