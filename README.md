@@ -34,8 +34,8 @@ Some of the Bootcamps / Courses I have completed:
 - 
 
 
-[LinkedIn] www.linkedin.com/in/thomas-bergmanis-540262171
-[Email] tom.bergmanis@gmail.com
+- LinkedIn: www.linkedin.com/in/thomas-bergmanis-540262171
+- Email: tom.bergmanis@gmail.com
 
 
 👋 Thanks for visiting 👋
