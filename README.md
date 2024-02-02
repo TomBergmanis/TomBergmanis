@@ -20,7 +20,7 @@ I love to learn, solve problems and have a keen interest in data and how it is u
 
 Check out some of my recent projects
 
-1. [Project 1](https://github.com/TomBergmanis/task_manager_python)
+1. [Project 1: Python Task Manager](https://github.com/TomBergmanis/task_manager_python)
 2. Project 2
 3. Project 3
 
