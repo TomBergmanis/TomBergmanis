@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+add a photo here!!!
+
 ### QUICK OVERVIEW: 
 - 🔭 I’m currently working on getting my first job in tech.
 - 🌱 Learning Python, Software Engineering, and Data Science.
