@@ -34,6 +34,7 @@ One of the key features of working in technology and particularly within softwar
 Some of the Bootcamps / Courses I have completed: 
 - [HyperionDev / CoGrammar Skills Bootcamp - Software Engineering Python](https://www.hyperiondev.com/portfolio/TB23110010900/) 
 - The Odin project JavaScript Foundations
+- [Udemy Courses](certificates)
 
 I am also looking to learn SQL, Power BI in the near future. 
 
