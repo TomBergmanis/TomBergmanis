@@ -22,7 +22,7 @@ Check out some of my recent projects
 
 1. [Project 1: Python Task Manager](https://github.com/TomBergmanis/task_manager_python)
 2. Project 2
-3. Project 3
+3. [Project 3: JavaScript Etch-a-Sketch]https://github.com/TomBergmanis/etch-a-sketch 
 
 ## Continuous Learning:
 One of the main reasons I aspire to work with technology is that I love to continuously learn and add new skills to my "toolbelt" as it makes me feel good to challenge myself and succeed in honing those new skills. 
@@ -31,11 +31,11 @@ One of the key features of working in technology and particularly within softwar
 Some of the Bootcamps / Courses I have completed: 
 - HyperionDev / CoGrammar Skills Bootcamp - Software Engineering Python
 - The Odin project JavaScript Foundations
-- 
 
 
-- LinkedIn: www.linkedin.com/in/thomas-bergmanis-540262171
-- Email: tom.bergmanis@gmail.com
+
+LinkedIn: www.linkedin.com/in/thomas-bergmanis-540262171
+Email: tom.bergmanis@gmail.com
 
 
 👋 Thanks for visiting 👋
