@@ -16,7 +16,7 @@ I love to learn, solve problems and have a keen interest in data and how it is u
 - Languages: Python, JavaScript, HTML, and CSS
 - Frameworks/ Tools: Git, CitHub, Command Line 
 
-## Projects:
+## PROJECTS:
 
 Check out some of my projects 
 
