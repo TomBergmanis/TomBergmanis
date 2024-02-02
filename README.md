@@ -22,7 +22,7 @@ Check out some of my recent projects
 
 1. [Project 1: Python Task Manager](https://github.com/TomBergmanis/task_manager_python)
 2. Project 2
-3. [Project 3: JavaScript Etch-a-Sketch]https://github.com/TomBergmanis/etch-a-sketch 
+3. [Project 3: JavaScript Etch-a-Sketch](https://github.com/TomBergmanis/etch-a-sketch) 
 
 ## Continuous Learning:
 One of the main reasons I aspire to work with technology is that I love to continuously learn and add new skills to my "toolbelt" as it makes me feel good to challenge myself and succeed in honing those new skills. 
