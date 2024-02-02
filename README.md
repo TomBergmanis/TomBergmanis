@@ -16,15 +16,15 @@ I love to learn, solve problems and have a keen interest in data and how it is u
 - Languages: Python, JavaScript, HTML, and CSS
 - Frameworks/ Tools: Git, CitHub, Command Line 
 
-## Recent Projects:
+## Projects:
 
-Check out some of my recent projects
+Check out some of my projects 
 
 1. [Project 1: Python Task Manager](https://github.com/TomBergmanis/task_manager_python)
 2. Project 2
 3. [Project 3: JavaScript Etch-a-Sketch](https://github.com/TomBergmanis/etch-a-sketch) 
 
-## Continuous Learning:
+## CONTINUOUS LEARNING:
 One of the main reasons I aspire to work with technology is that I love to continuously learn and add new skills to my "toolbelt" as it makes me feel good to challenge myself and succeed in honing those new skills. 
 One of the key features of working in technology and particularly within software development is continuous development. Whether that is learning new languages, frameworks, etc., or soft skills such as teamwork, communication, leadership... It is important to know that there is always more to learn or improve on.
 
