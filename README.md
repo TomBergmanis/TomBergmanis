@@ -42,6 +42,7 @@ I am also looking to learn SQL, Power BI in the near future.
 
 LinkedIn: www.linkedin.com/in/thomas-bergmanis-540262171
 Email: tom.bergmanis@gmail.com
+CV/Resume: 
 
 
 👋 Thanks for visiting 👋
