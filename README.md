@@ -19,8 +19,6 @@ I am also a part-time product tester for Jenson8 which is using VR / gamified Ps
 - Languages: Python, JavaScript, HTML, and CSS
 - Frameworks/ Tools: Git, CitHub, Command Line 
 
-I am also looking to learn SQL, Power BI in the near future. 
-
 ## PROJECTS:
 
 Check out some of my projects 
@@ -37,7 +35,7 @@ Some of the Bootcamps / Courses I have completed:
 - [HyperionDev / CoGrammar Skills Bootcamp - Software Engineering Python](https://www.hyperiondev.com/portfolio/TB23110010900/) 
 - The Odin project JavaScript Foundations
 
-
+I am also looking to learn SQL, Power BI in the near future. 
 
 LinkedIn: www.linkedin.com/in/thomas-bergmanis-540262171
 Email: tom.bergmanis@gmail.com
