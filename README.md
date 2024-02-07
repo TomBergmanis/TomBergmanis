@@ -2,9 +2,9 @@
 
 
 ### QUICK OVERVIEW: 
-- 🔭 I’m currently working on getting my first job in tech.
+- 🔭 I’m currently working on getting my first job in tech. 
 - 🌱 Learning Python, Software Engineering, and Data Science.
-- 👯 I’m looking to collaborate on my first project whether that be Python, JavaScript, HTML, CSS.
+- 👯 I’m looking to collaborate on projects whether that be Python, JavaScript, HTML, CSS.
 - Let's connect! I am open to collaboration, networking and new opportunities. Feel free to reach out via LinkedIn www.linkedin.com/in/thomas-bergmanis-540262171
 
 # INTRODUCTION
@@ -14,7 +14,7 @@ I'm Tom, a passionate tech enthusiast on a journey to become a skilled Python de
 I love to learn, solve problems and have a keen interest in data and how it is used. My journey began when I was first introduced to basic programming during my final year at university. This sparked an interest to pursue learning Python in my own time, where I enrolled myself in a variety of online courses. This didn't stop here; I found out about the HyperionDev CoGrammar Skills boot camp, where I have been learning Python and key concepts in software development such as **data structures and algorithms, object-oriented programming, and system design**.
 
 I am currently an acoustic consultant (nothing to do with acoustic guitars!) travelling up and down the UK collecting noise data to use in assessments for construction and built envrionments. This involves a lot of data processing, data analysing and Excel. 
-I am also a part-time product tester for Jenson8 which is using VR / gamified Psychometric testing to provide insight into workforce metrics such as teamwork, leadership, problem-solving etc, which I find very exciting and intriguing. I hoping the role will expand out into a technical support role so I can transistion to the tech industry, away from the acoustics industry. I believe that my transferable skills and commitment to continuous learning will enable me to thrive in a technical role and hopefully onto a development/engineering or data analyst role. 
+I am also a freelance product tester and technical support for Jenson8 which is use VR / gamified psychometric testing to provide insight into workforce metrics such as teamwork, leadership, problem-solving etc, which I find very exciting and intriguing. I believe that my transferable skills and commitment to continuous learning will enable me to thrive in a tech role and hopefully onto a development/engineering or data analyst role. 
 
 ## SKILLS:
 - Languages: Python, JavaScript, HTML, CSS
