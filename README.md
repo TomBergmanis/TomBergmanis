@@ -23,7 +23,7 @@ I am also a freelance product tester and technical support for Jenson8 which is 
 
 Check out some of my projects 
 
-1. [Project 1: Python Task Manager](https://github.com/TomBergmanis/task_manager_python)
+1. [Project 1: Python Task Manager][(https://github.com/TomBergmanis/finalCapstone)]
 2. [Project 2: Python Tic, Tac, Toe](https://github.com/TomBergmanis/python_tic_tac_toe)
 3. [Project 3: JavaScript Etch-a-Sketch](https://github.com/TomBergmanis/etch-a-sketch) 
 
