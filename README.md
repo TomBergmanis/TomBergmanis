@@ -2,18 +2,17 @@
 
 
 ### QUICK OVERVIEW: 
-- 🔭 I’m currently working on getting my first job in tech. 
 - 🌱 Learning Python, Software Engineering, and Data Science.
 - 👯 I’m looking to collaborate on projects whether that be Python, JavaScript, HTML, CSS.
-- Let's connect! I am open to collaboration, networking and new opportunities. Feel free to reach out via LinkedIn www.linkedin.com/in/thomas-bergmanis-540262171
+- 🔭 Let's connect! I am open to collaboration, networking and new opportunities. Feel free to reach out via LinkedIn www.linkedin.com/in/thomas-bergmanis-540262171
 
 # INTRODUCTION
-I'm Tom, a passionate tech enthusiast on a journey to become a skilled Python developer and delve into the realms of software engineering and data analytics. I am a self-taught developer, gaining most of my knowledge through online courses and bootcamps. 
+I'm Tom, a passionate tech enthusiast on a journey to become a skilled Python developer and delve into the realms of software engineering and data analytics. I am a self-taught developer, gaining most of my knowledge through online courses, YouTube and bootcamps. 
 
 ## ABOUT ME
-I love to learn, solve problems and have a keen interest in data and how it is used. My journey began when I was first introduced to basic programming during my final year at university. This sparked an interest to pursue learning Python in my own time, where I enrolled myself in a variety of online courses. This didn't stop here; I found out about the HyperionDev CoGrammar Skills boot camp, where I have been learning Python and key concepts in software development such as **data structures and algorithms, object-oriented programming, and system design**.
+I love to learn, solve problems and have a keen interest in data and how it is used. My journey began when I was first introduced to basic programming during my final year at university. This sparked an interest to pursue learning Python in my own time, where I enrolled myself in a variety of online courses. This didn't stop here; I found out about the HyperionDev CoGrammar Skills bootcamp, where I have been learning Python and key concepts in software development such as **data structures and algorithms, object-oriented programming, and system design**.
 
-I am currently an acoustic consultant (nothing to do with acoustic guitars!) travelling up and down the UK collecting noise data to use in assessments for construction and built envrionments. This involves a lot of data processing, data analysing and Excel. 
+I am currently an acoustic consultant (nothing to do with acoustic guitars!) travelling up and down the UK collecting noise data to use in assessments for construction and built environments. This involves a lot of data processing, data analysing and Excel. Provide advice and solutions for noise mitigation. 
 I am also a freelance product tester and technical support for Jenson8 which is use VR / gamified psychometric testing to provide insight into workforce metrics such as teamwork, leadership, problem-solving etc, which I find very exciting and intriguing. I believe that my transferable skills and commitment to continuous learning will enable me to thrive in a tech role and hopefully onto a development/engineering or data analyst role. 
 
 ## SKILLS:
