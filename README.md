@@ -24,7 +24,7 @@ I am also a freelance product tester and technical support for Jenson8 which is 
 Check out some of my projects 
 
 1. [Project 1: Python Task Manager](https://github.com/TomBergmanis/finalCapstone)
-2. [Project 2: Python S&P500 Company Tracker](https://github.com/TomBergmanis/sp500_tracker)
+2. [Project 2: Python S&P500 Company Tracker](https://github.com/TomBergmanis/sp_500_tracker)
 3. [Project 3: Python Tic, Tac, Toe](https://github.com/TomBergmanis/python_tic_tac_toe)
 4. [Project 4: JavaScript Etch-a-Sketch](https://github.com/TomBergmanis/etch-a-sketch) 
 
