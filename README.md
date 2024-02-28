@@ -24,9 +24,12 @@ I am also a freelance product tester and technical support for Jenson8 which is 
 Check out some of my projects 
 
 1. [Project 1: Python Task Manager](https://github.com/TomBergmanis/finalCapstone)
+    This project uses Python and the terminal to show/ prompt the user to add, view, report etc tasks.   
 2. [Project 2: Python S&P500 Company Tracker](https://github.com/TomBergmanis/sp_500_tracker)
+     This project uses Python, pandas, matplotlib, yfinance, to track the top 500 companies in the US. 
 3. [Project 3: Python Tic, Tac, Toe](https://github.com/TomBergmanis/python_tic_tac_toe)
-4. [Project 4: JavaScript Etch-a-Sketch](https://github.com/TomBergmanis/etch-a-sketch) 
+      This project uses Python and the terminal to play a game of tic-tac-toe. Up to 2 players. 
+5. [Project 4: JavaScript Etch-a-Sketch](https://github.com/TomBergmanis/etch-a-sketch) 
 
 ## CONTINUOUS LEARNING:
 One of the main reasons I aspire to work with technology is that I love to continuously learn and add new skills to my "toolbelt" as it makes me feel good to challenge myself and succeed in honing those new skills. 
