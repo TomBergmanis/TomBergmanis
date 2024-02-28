@@ -28,8 +28,10 @@ Check out some of my projects
 2. [Project 2: Python S&P500 Company Tracker](https://github.com/TomBergmanis/sp_500_tracker)
        This project uses Python, matplotlib, yfinance, to track the top 500 companies in the US. 
 3. [Project 3: Python Tic, Tac, Toe](https://github.com/TomBergmanis/python_tic_tac_toe)
-       This project uses Python, itertools and colorama and the terminal to play a game of tic-tac-toe. Up to 2 players. 
-4. [Project 4: JavaScript Etch-a-Sketch](https://github.com/TomBergmanis/etch-a-sketch)
+       This project uses Python, itertools and colorama and the terminal to play a game of tic-tac-toe. Up to 2 players.
+4. [Project 4: Python Machine Learning]()
+       This project uses Python, pandas, scikit-learn to predict the price of diamonds.        
+5. [Project 5: JavaScript Etch-a-Sketch](https://github.com/TomBergmanis/etch-a-sketch)
        This project uses JavaScript, HTML and CSS to create an interactive etch-a-sketch allowing the user to draw. 
 
 ## CONTINUOUS LEARNING:
