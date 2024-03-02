@@ -17,7 +17,7 @@ I am also a freelance product tester and technical support for Jenson8 which is 
 
 ## SKILLS:
 - Languages: Python, JavaScript, HTML, CSS
-- Frameworks/ Tools/ Libraries: pandas, matplotlib, Git, CitHub, Command Line 
+- Frameworks/ Tools/ Libraries: pandas,numpy, matplotlib, Git, CitHub, Command Line 
 
 ## PROJECTS:
 
