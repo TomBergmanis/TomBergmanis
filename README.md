@@ -14,7 +14,7 @@ I love to learn, solve problems and have a keen interest in data and how it is u
 
 ## SKILLS:
 - Languages: Python, JavaScript, HTML, CSS
-- Frameworks/ Tools/ Libraries: pandas,numpy, matplotlib, Git, CitHub, Command Line 
+- Frameworks/ Tools/ Libraries: pandas, numpy, matplotlib, django, dash, Git, GitHub, Command Line 
 
 ## PROJECTS:
 
