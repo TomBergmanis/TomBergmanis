@@ -2,7 +2,7 @@
 
 
 ### QUICK OVERVIEW: 
-- 🌱 Learning Python, Software Engineering, and Data Analysis.
+- 🌱 Learning Python, Software Engineering and Data Analysis.
 - 👯 I’m looking to collaborate on projects whether that be Python, JavaScript, HTML, CSS.
 - 🔭 Let's connect! I am open to collaboration, networking and new opportunities. Feel free to reach out via LinkedIn www.linkedin.com/in/thomas-bergmanis-540262171
 
@@ -14,7 +14,7 @@ I love to learn, solve problems and have a keen interest in data and how it is u
 
 ## SKILLS:
 - Languages: Python, JavaScript, HTML, CSS
-- Frameworks/ Tools/ Libraries: pandas, numpy, matplotlib, django, dash, Git, GitHub, Command Line 
+- Frameworks/ Tools/ Libraries: pandas, numpy, matplotlib, django, dash, scikit-learn, Git, GitHub, Command Line 
 
 ## PROJECTS:
 
